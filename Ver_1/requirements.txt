@@ -1,0 +1,11 @@
+Package    Version
+---------- -------
+future     0.17.1 
+iso8601    0.1.12 
+pip        19.1.1 
+PyQt5      5.12.2 
+PyQt5-sip  4.19.17
+PyYAML     5.1    
+serial     0.0.97 
+setuptools 41.0.1 
+wheel      0.33.2 
