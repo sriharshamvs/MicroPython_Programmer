@@ -1,5 +1,3 @@
-import sys
-from subprocess import *
 import serial
 import glob
 
